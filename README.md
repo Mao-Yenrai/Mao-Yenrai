@@ -1,16 +1,14 @@
-## Hi there 👋
+Nikita | Python Developer
 
-<!--
-**Mao-Yenrai/Mao-Yenrai** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a beginner developer passionate about creating tools to automate and simplify everyday tasks. 
+My main priority now is continuous learning and skill development to launch my career in IT.
 
-Here are some ideas to get you started:
+Key Information:
+* Stack: Python (actively developing applied solutions).
+* Projects: I implement original ideas in the Pet project format and am open to new challenges.
+* Portfolio: My work can be found at [GitHub link].
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+About Me:
+I'm disciplined and enjoy working out and reading (Frank Herbert's Dune is a particular favorite). 
+I appreciate good tea and relaxing while gaming or watching anime. 
+I adapt quickly and am ready to contribute to your team's success.
